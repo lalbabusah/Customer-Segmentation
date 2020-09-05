@@ -6,8 +6,8 @@
 * [Model Development](#Model_Development)
 
 ## Introduction
-In this project, Segmenting the customer base by service usage patterns.
-Specifically, this report will be targeted to stakeholders interested in Segment the customer base.
-Using data science to generate a best machine learning model based on these criteria. The advantages of the model will then be clearly expressed so that the best possible solution can be chosen by stakeholders.
-
+In this project, segmented the customer base by service usage patterns, categorizing the customers into four groups(1- Basic Service 2- E-Service 3- Plus Service 4- Total Service). It is a classification problem. That is, given the dataset, with predefined labels.
+Specifically, this report will be targeted to stakeholders interested in Segment the customer base service usage patterns. 
+For analysis, downloaded data from the IBM Object Storage.
+For model development, used supervised machine learning model.
 
